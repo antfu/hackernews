@@ -27,23 +27,23 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
-    "h3": "^0.2.10",
-    "nuxt": "^2.15.6",
-    "ohmyfetch": "^0.2.0"
+    "h3": "^0.4.2",
+    "nuxt": "^2.15.8",
+    "ohmyfetch": "^0.4.15"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^6.0.1",
     "@nuxtjs/pwa": "3.3.5",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.28.0",
+    "eslint": "^7.32.0",
     "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.23.4",
-    "eslint-plugin-jest": "^24.3.6",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^24.7.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-promise": "^5.2.0",
     "eslint-plugin-standard": "^5.0.0",
-    "eslint-plugin-vue": "^7.10.0",
-    "stylus": "^0.54.8",
+    "eslint-plugin-vue": "^7.20.0",
+    "stylus": "^0.57.0",
     "stylus-loader": "^4.3.3"
   }
 }
